@@ -2,12 +2,13 @@
 
 ## Study path
 * 总体介绍
-* 运行起来Example
-* 从编译到部署
-* 写一个相关模块
-* 研究启动逻辑
-* 研究服务逻辑
-* Next?
+  * https://www.aosabook.org/en/nginx.html
+* TODO: 运行起来Example
+* TODO: 从编译到部署
+* TODO: 写一个相关模块
+* TODO: 研究启动逻辑
+* TODO: 研究服务逻辑
+* TODO: Next?
 
 ## 系统目标 Why
 
