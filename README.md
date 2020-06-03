@@ -1,5 +1,13 @@
 # nginx-study
 
+## Study path
+* 总体介绍
+* 运行起来Example
+* 从编译到部署
+* 写一个相关模块
+* 研究启动逻辑
+* 研究服务逻辑
+* Next?
 
 ## 系统目标 Why
 
