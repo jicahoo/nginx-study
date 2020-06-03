@@ -3,12 +3,16 @@
 ## Study path
 * 总体介绍
   * https://www.aosabook.org/en/nginx.html
+  * TODO:输出: 中文概括复述一遍。
 * TODO: 运行起来Example
+  * 输出：Github 一个repo 或者一个博客
 * TODO: 从编译到部署
+  * 输出：这一步的输出自然而然。你要Do的, 然后Done. 输出可以是文档或者Git Repo, 脚本？
 * TODO: 写一个相关模块
+  * 输出：GitHUb repo. 
 * TODO: 研究启动逻辑
 * TODO: 研究服务逻辑
-* TODO: Next?
+* TODO: 研究1万个链接的状态
 
 ## 系统目标 Why
 
